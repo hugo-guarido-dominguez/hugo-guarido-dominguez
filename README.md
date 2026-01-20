@@ -57,7 +57,7 @@ Visita el resto de repositorios!
 
 ## 📈 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hguarido55&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-guarido-dominguez&layout=compact&theme=radical)
 
 ---
 
