@@ -4,9 +4,10 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos,
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Sobre mí/About me
 
-- 🎓 Estudiante de Ingeniería Informática
+- 🎓 Estudiante de Ingeniería Informática (3º)
+- 🎓 Computer science student (Junior)
 
 ---
 
@@ -36,19 +37,25 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos,
 
 ## 📂 Proyectos destacados
 
-🔹 **[SecureBank](https://github.com/hguarido55/SecureBank_Linux)**  
-Sistema bancario concurrente en C usando procesos, hilos, semáforos, memoria compartida y más.  
+🔹 **[Clasificación - Machine Learning](https://github.com/hugo-guarido-dominguez/Clasificacion_Vinos_ML)**  
+Python notebook e informe de análisis de datos para clasificar vinos según su tipo y sus características. Metodología de análisis de datos: selección/extracción de datos, exploración inicial (EDA), limpieza de datos, transformación y preprocesamiento de datos, implementación/entrenamiento de modelos y evaluación de estos. Uso de diferentes modelos de clasificación (Random Forest, SVM, Naive Bayes, Árboles de Decisión) y evaluación de cada uno usando matrices de confusión y métricas de evaluación.   
 
-🔹 **[VoluntApp](https://github.com/hguarido55/VoluntApp)**  
+🔹 **[SecureBank](https://github.com/hugo-guarido-dominguez/SecureBank_Linux)**  
+Sistema bancario concurrente en C usando procesos, hilos, semáforos, memoria compartida y más. 
+
+🔹 **[Clustering - Machine Learning](https://github.com/hugo-guarido-dominguez/Clustering_Pokemon_ML)**  
+Python notebook e informe de análisis de datos para agrupar Pokémon según su tipo y sus características. Metodología de análisis de datos: selección/extracción de datos, exploración inicial (EDA), limpieza de datos, transformación y preprocesamiento de datos, implementación/entrenamiento de modelos y evaluación de estos. Uso de diferentes modelos de clustering (K-Means, aglomerativo y DBSCAN) y evaluación de cada uno usando matrices de confusión y métricas de evaluación.   
+
+🔹 **[VoluntApp](https://github.com/hugo-guarido-dominguez/VoluntApp)**  
 App en C# con ASP.NET para conectar voluntarios con ONGs, base de datos MySQL y generación de PDFs.  
 
-🔹 **[BeatSwipe](https://github.com/hguarido55/beatswipe)** *(en desarrollo)*  
+🔹 **[BeatSwipe](https://github.com/hugo-guarido-dominguez/beatswipe)** *(en desarrollo)*  
 Plataforma web social para descubrir música mediante clips breves y swipe.
 
-🔹 **[StartupMatch](https://github.com/hguarido55/StartupMatch)** *(en desarrollo)*  
+🔹 **[StartupMatch](https://github.com/hugo-guarido-dominguez/StartupMatch)** *(en desarrollo)*  
 Plataforma web desarrollada con el stack MERN (MongoDB, Express, React.js, Node.js) para conectar startups con desarrolladores y otras startups. Incluye autenticación segura con JWT, videollamadas y mensajería en tiempo real mediante la API de Stream, y está desplegada en Render para un acceso rápido y fiable. Testeada localmente con Postman para verificar APIs, endpoints y rutas.
 
-🔹 **[Arkanoid Z80](https://github.com/hguarido55/Arkanoid_Z80_Assembly)**  
+🔹 **[Arkanoid Z80](https://github.com/hugo-guarido-dominguez/Arkanoid_Z80_Assembly)**  
 Juego tipo Arkanoid desarrollado en Assembly para Z80, ejecutado en emulador Spectrum.
 
 Visita el resto de repositorios!
