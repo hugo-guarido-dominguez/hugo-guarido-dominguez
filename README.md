@@ -6,8 +6,9 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos,
 
 ## 🧠 Sobre mí/About me
 
-- 🎓 Estudiante de Ingeniería Informática (4º) | Computer Science Student
-- Becario de Ingeniero de Software @ Beedigital | Software Engineering Intern at @ Beedigital
+- 🎓 Estudiante de Ingeniería Informática y Ciberseguridad (4º) | Computer Science and Cybersecurity Student
+- Becario de Digital Assurance @ PwC | Digital Assurance Intern @ PwC
+- Exbecario de Ingeniero de Software @ Beedigital | Ex-Software Engineering Intern at @ Beedigital
 
 ---
 
